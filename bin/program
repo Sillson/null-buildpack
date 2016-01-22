@@ -1,0 +1,2 @@
+#\!/usr/bin/env bash
+ mail -s 'buildpack success' will.sharp@getg5.com <<< 'insert annoying message here'
