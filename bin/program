@@ -1,1 +1,1 @@
-#\!/usr/bin/env bash\n mail -s "Subject" will.sharp@getg5.com "Insert Annoying Message"
+#\!/usr/bin/env bash\n mail -s "Subject" someone@somewhere.com "Insert Annoying Message"
